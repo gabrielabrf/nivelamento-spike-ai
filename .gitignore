@@ -1,0 +1,14 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários e saídas pesadas
+output/*.mp4
+input/*.mp4
+
+# VS Code
+.vscode/
