@@ -1,0 +1,10 @@
+{
+    "modelo": "OpenPose (OpenCV Caffe)",
+    "video": "ataque_lateral2.mp4",
+    "frames_totais": 252,
+    "tempo_total_segundos": 307.39,
+    "tempo_medio_inferencia_ms": 1217.81,
+    "fps_medio": 0.82,
+    "cpu_medio_percentual": 84.25,
+    "gpu_utilizada": false
+}

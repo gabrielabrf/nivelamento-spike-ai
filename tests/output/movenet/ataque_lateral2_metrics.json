@@ -1,0 +1,10 @@
+{
+    "modelo": "MoveNet Thunder",
+    "video": "ataque_lateral2.mp4",
+    "frames_totais": 252,
+    "tempo_total_segundos": 84.33,
+    "tempo_medio_inferencia_ms": 330.62,
+    "fps_medio": 3.02,
+    "cpu_medio_percentual": 78.6,
+    "gpu_utilizada": false
+}

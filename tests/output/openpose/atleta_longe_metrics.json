@@ -1,0 +1,10 @@
+{
+    "modelo": "OpenPose (OpenCV Caffe)",
+    "video": "atleta_longe.mp4",
+    "frames_totais": 100,
+    "tempo_total_segundos": 134.36,
+    "tempo_medio_inferencia_ms": 1323.21,
+    "fps_medio": 0.76,
+    "cpu_medio_percentual": 86.11,
+    "gpu_utilizada": false
+}

@@ -1,0 +1,10 @@
+{
+    "modelo": "MoveNet Thunder",
+    "video": "atleta_perto.mp4",
+    "frames_totais": 170,
+    "tempo_total_segundos": 58.05,
+    "tempo_medio_inferencia_ms": 327.99,
+    "fps_medio": 3.05,
+    "cpu_medio_percentual": 78.09,
+    "gpu_utilizada": false
+}
