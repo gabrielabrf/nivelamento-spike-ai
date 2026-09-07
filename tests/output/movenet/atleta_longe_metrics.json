@@ -1,0 +1,10 @@
+{
+    "modelo": "MoveNet Thunder",
+    "video": "atleta_longe.mp4",
+    "frames_totais": 100,
+    "tempo_total_segundos": 34.84,
+    "tempo_medio_inferencia_ms": 328.51,
+    "fps_medio": 3.04,
+    "cpu_medio_percentual": 77.41,
+    "gpu_utilizada": false
+}

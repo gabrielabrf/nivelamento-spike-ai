@@ -1,0 +1,10 @@
+{
+    "modelo": "OpenPose (OpenCV Caffe)",
+    "video": "ataque_frontal2.mp4",
+    "frames_totais": 138,
+    "tempo_total_segundos": 202.66,
+    "tempo_medio_inferencia_ms": 1465.56,
+    "fps_medio": 0.68,
+    "cpu_medio_percentual": 69.44,
+    "gpu_utilizada": false
+}

@@ -12,3 +12,25 @@ input/*.mp4
 
 # VS Code
 .vscode/
+
+# Ambientes virtuais e cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivos de vídeo e saídas pesadas
+input/
+output/*.mp4
+output/*.avi
+tests/input/
+tests/output/*.mp4
+tests/output/*.avi
+
+# Pesos e arquivos binários de modelos (YOLO, OpenPose, TensorFlow)
+*.pt
+*.pb
+*.caffemodel
+*.prototxt
+*.onnx
+*.tflite

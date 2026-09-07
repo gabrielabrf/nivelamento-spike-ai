@@ -1,0 +1,10 @@
+{
+    "modelo": "OpenPose (OpenCV Caffe)",
+    "video": "atleta_perto.mp4",
+    "frames_totais": 170,
+    "tempo_total_segundos": 269.81,
+    "tempo_medio_inferencia_ms": 1572.22,
+    "fps_medio": 0.64,
+    "cpu_medio_percentual": 76.89,
+    "gpu_utilizada": false
+}
